@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BellMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c686e52afd7069fc4219eb2818116789420faae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c2ed5db0482404b79d29cc1872d0cc8bccda04")]
 [assembly: System.Reflection.AssemblyProductAttribute("BellMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BellMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
