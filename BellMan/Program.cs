@@ -16,5 +16,6 @@ class FileLineReader
         {
             Console.WriteLine(line);
         }
+        Console.WriteLine("Hello");
     }
 }
